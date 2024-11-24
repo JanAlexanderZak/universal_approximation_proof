@@ -1,0 +1,3 @@
+# Universal Approximation Theorem: Experimental Proofs  
+
+This repository contains a series of experimental implementations aimed at demonstrating and verifying the Universal Approximation Theorem. It states that a neural network with a single hidden layer and a sufficiently large number of neurons can approximate any continuous function on a closed interval, given appropriate activation functions.
