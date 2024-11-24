@@ -2,3 +2,12 @@
 .vscode
 *__pycache__
 *data
+*lightning_logs
+*abs
+*cos
+*exp
+*log
+*sin
+*sqrt
+*tanh
+*x2
