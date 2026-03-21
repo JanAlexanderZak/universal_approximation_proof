@@ -1,0 +1,18 @@
+[project]
+name = "universal-approximation-proof"
+version = "0.1.0"
+description = "Proof of the Universal Approximation Theorem using PyTorch Lightning"
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.5",
+    "pytorch-lightning>=2.4",
+    "matplotlib>=3.9",
+    "numpy>=2.1",
+    "pillow>=11.0",
+]
+
+[tool.ruff]
+line-length = 79
+
+[tool.ruff.lint]
+select = ["E", "W", "N"]
